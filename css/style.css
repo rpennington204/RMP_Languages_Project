@@ -1,0 +1,50 @@
+body {
+
+    background-color: black;
+    color: white;
+    
+    margin-bottom: 50px;
+
+    font-size: 17px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+html {
+    border-style: solid;
+    color: blue; 
+    border-width: thick;
+
+    padding-left: 20px;
+    padding-right: 80px;
+
+
+}
+
+h2 {
+    text-align: center;
+
+    text-decoration: underline;
+
+}
+
+
+ .wrap {
+   float: right; 
+   margin: 5px;
+  }
+
+
+  figcaption {
+
+    text-align: center;
+  }
+
+  .reference {
+
+    padding-left: 36px;
+    text-indent: -36px;
+  }
